@@ -1,2 +1,2 @@
 # DataUnion
-Join multiple map-matched logfiles for TBUS simulations
+Join multiple map-matched cellular network traces for TBUS simulations
