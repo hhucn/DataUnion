@@ -9,3 +9,4 @@ javac DataUnion.jav
 
 ##Run
 java DataUnion
+
